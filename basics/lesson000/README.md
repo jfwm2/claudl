@@ -1,7 +1,7 @@
 ## claudl / basics / lesson 0
 
 - Summary:
-  - log in and lauch brower and terminal
+  - log in and launch browser and terminal
   - clone current repository
   - view / compile / run
 - Notions:
