@@ -18,13 +18,13 @@
 - launch terminal
 
 ### Shell
-- Directory structure
+- directory structure
 `ls`
-- Navigate to home directory
+- navigate to home directory
 `cd ~`
-- Clone current repository
+- clone current repository
 `git clone`
-- Navigate to current directory
+- navigate to current directory
 `cd` + TAB
 - display file content
 `cat`
