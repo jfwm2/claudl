@@ -1,12 +1,12 @@
 ## claudl / basics / lesson 1
 
 - Summary:
-  - log in and lauch brower and terminal
-  - clone current repository
-  - view / compile / run
+  - log in and launch terminal
+  - update current repository
+  - view / edit / compile / run
 - Notions:
   - User login/password
-  - commands: `cd`, `ls` (`git fetch` and `git rebase` also)
+  - commands: `cd`, `ls` `cat` (`git fetch` and `git rebase` also)
   - open and edit a file with `emacs`
   - program structure
   - view, modify, compile, and run a program
