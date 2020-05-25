@@ -21,6 +21,6 @@
 ### emacs
 - change, save, compile, and run
 
-### C+
+### C++
 - variables introduction
 - int, char, string (used for display with cout)
