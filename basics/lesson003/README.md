@@ -7,7 +7,7 @@
 - Notions:
   - User login/password
   - commands: `cd`, `ls`, and `make` (`git fetch`, `git rebase` as well as `git diff` and `git statsh`)
-  - open, edit, amd compile a file with `emacs`
+  - open, edit, and compile a file with `emacs`
   - int variables 
 
 ### Linux
