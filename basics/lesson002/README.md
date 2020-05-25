@@ -6,7 +6,7 @@
   - view / edit / compile / run / delete
 - Notions:
   - User login/password
-  - commands: `cd`, `ls`, `cat`, `rm` and `make` (`git fetch` and `git rebase` also)
+  - commands: `cd`, `ls`, `cat`, `rm` and `make` (`git fetch`, `git rebase` as well as `git rebase` and `git statsh`)
   - open, edit, amd compile  a file with `emacs`
   - program structure
   - use comments
