@@ -4,6 +4,9 @@
 # Unignore all with extensions
 !*.*
 
+# Unignore Makefiles
+!Makefile
+
 # Unignore all dirs
 !*/
 
