@@ -1,5 +1,5 @@
-## claudl / basics / lesson 3 
+## claudl / basics / lesson 4
 
-- Return code
+- Makefile
 - Uninitialized variables
 - Introduction to undefined behaviour
