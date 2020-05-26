@@ -19,6 +19,6 @@ int main() {
   months = 12 * years;
   half = years / 2;
 
-  std::cout << years << " years is" << months << " months." << std::endl;
+  std::cout << years << " years is " << months << " months." << std::endl;
   std::cout << "Half of " << years << " is " << half << '.' << std::endl;
 }
