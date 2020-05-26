@@ -5,7 +5,9 @@
 int main() {
   std::cout << "How old are you?" << std::endl; 
 
-  int years{};
+  int years{};  // zero initialization
+  // Zero initialization generally initializes the variable to
+  // zero (or empty, if that’s more appropriate for a given type).
 
   std::cout << "Enter you age in years: ";
   std::cin >> years;
