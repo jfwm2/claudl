@@ -12,3 +12,6 @@ clean:
 
 run: all
 	./$(PROGRAM)
+
+lint:
+	cpplint $(SOURCES)
