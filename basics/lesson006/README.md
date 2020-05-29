@@ -1,4 +1,4 @@
-## claudl / basics / lesson 3 
+## claudl / basics / lesson 6
 
 - functions
 - parameters
