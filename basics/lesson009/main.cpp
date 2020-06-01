@@ -14,6 +14,7 @@ int main() {
 
   PrintValue("x + y", x + y);
   PrintValue("x - y", x - y);
+  PrintValue("x * y", x * y);
   PrintValue("x / y", x / y);
   PrintValue("x % y", x % y);
 
